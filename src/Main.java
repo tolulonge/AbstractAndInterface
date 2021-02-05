@@ -19,6 +19,7 @@ public class Main {
         samsung.lightUp();
         samsung.turnOff();
         samsung.displayStatus();
+        samsung.displayName();
 
         // Prints out the result of a method that checks if a number is divisible by 3,5 or 15
         System.out.println(samsung.foobar(45));
